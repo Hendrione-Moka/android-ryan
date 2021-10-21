@@ -1,0 +1,10 @@
+!!properties.PropertiesData
+firstName: "John"
+lastName: "Doe"
+age: 20
+appiumProperties:
+  deviceName: device
+  udid: emulator-5554
+  app: /Users/hendrione/Code/APPS/sample-apk.apk
+  newCommandTimeout: 120
+  appiumUrl: http://localhost:4723/wd/hub/
